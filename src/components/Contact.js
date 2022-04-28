@@ -4,7 +4,7 @@ import Link from "./Link";
 const Contact = props => {
     return (
         <div className="section bg-dark">
-            <div className="font-monument text-white font-bold text-4xl md:text-4xl lg:text-6xl">GET IN TOUCH</div>
+            <div className="font-monument text-white font-bold text-4xl md:text-4xl lg:text-6xl" id="contact">GET IN TOUCH</div>
             <a 
                 href="https://mail.google.com/mail/u/0/?fs=1&to=mercklyzer@gmail.com&tf=cm"
                 target={"__blank"}

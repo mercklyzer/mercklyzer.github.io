@@ -32,7 +32,7 @@
   .menu {
     cursor: pointer;
     position: absolute;
-    top: calc(27px - 100vh + var(--app-height)) ;
+    top: 27px ;
     right: 27px;
     height: 40px;
     width: 40px;

@@ -16,7 +16,7 @@ const Sidebar = props => {
 
     return (
         <div className={`section z-10 sidebar ${open? 'open' : ''}`}>
-            <div className="menu bg-neon opacity-1" onClick={toggleOpen}>
+            <div className="menu bg-neon opacity-1 border-black border" onClick={toggleOpen}>
                 {!open && <svg className="stroke-black" fill="none" stroke="" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>}
                 {open && <svg className="stroke-black" fill="none" stroke="" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>}
             </div>
