@@ -38,7 +38,7 @@ const Projects = props => {
 
     return (
         <div className="bg-dark" id="projects">
-            <div className="section border-2 border-neon border-x-0">
+            <div className="section lg:border-2 border-neon border-x-0">
                 <div 
                     ref={projectRef}
                     className="font-monument font-bold text-white text-4xl md:text-6xl lg:text-8xl text-center opacity-0">PROJECTS</div>

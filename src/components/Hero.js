@@ -47,13 +47,13 @@ const Hero = ({className}) => {
                     className="absolute inset-0 w-full h-full bg-light transform scale-105"></div>
                 <div className="w-[80vw] md:w-[60vw] lg:w-auto lg:h-[90vh] overflow-hidden">
                     <img
-                        className="object-fit h-full " 
+                        className="object-fit h-full max-h-screen" 
                         src={HeroImg} alt="hero image" 
                         />
 
                     <div 
-                            ref={scrollDown}
-                        className="absolute transform top-1/2 right-0 translate-x-1/2 -translate-y-1/2 border-black border-2 rounded-full bg-white opacity-0">
+                        ref={scrollDown}
+                        className="hidden md:block absolute transform top-1/2 right-0 translate-x-1/2 -translate-y-1/2 border-black border-2 rounded-full bg-white opacity-0">
                         <img 
                             className="animate-spin-slow w-16 h-16 lg:w-auto lg:h-auto"
                             src={WhiteScrollDown} />
