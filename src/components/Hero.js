@@ -10,7 +10,7 @@ const Hero = ({className}) => {
 
     useEffect(() => {
         gsap.to(whiteBox.current, 2.4, {
-            yPercent: -100,
+            yPercent: -110,
             ease: Expo.easeInOut,
             delay: 3.2
         })

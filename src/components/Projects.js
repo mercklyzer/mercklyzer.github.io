@@ -33,8 +33,7 @@ const Projects = props => {
             duration: 2,
             stagger: 0.7
         })
-
-    })
+    }, [])
 
     return (
         <div className="bg-dark" id="projects">

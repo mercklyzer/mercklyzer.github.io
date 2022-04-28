@@ -17,7 +17,6 @@ function App() {
     appHeight()
 
     return () => window.removeEventListener('resize', appHeight)
-
   }, [])
 
   
