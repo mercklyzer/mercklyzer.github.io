@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.9f8c553c.css",
-    "main.js": "/static/js/main.3e9f06db.js",
+    "main.js": "/static/js/main.451a450e.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/animation.gif": "/static/media/animation.74efcd078a222edec6b0.gif",
     "static/media/hero-img.jpg": "/static/media/hero-img.2ca5c96a300206893617.jpg",
-    "static/media/head.gif": "/static/media/head.01470d18761cb25a302b.gif",
+    "static/media/head.gif": "/static/media/head.850adbb9b57de34bfa93.gif",
     "static/media/trailyzer.jpg": "/static/media/trailyzer.a64643d1072e0026f1f9.jpg",
     "static/media/LYZIdeas.jpg": "/static/media/LYZIdeas.8e09af1fc016cfc00d63.jpg",
     "static/media/LYZIdeasAdmin.jpg": "/static/media/LYZIdeasAdmin.f4b82d74be28c0d79711.jpg",
@@ -15,11 +15,11 @@
     "static/media/MonumentExtended-Bold.woff": "/static/media/MonumentExtended-Bold.a94ac004aceadf80f4a0.woff",
     "index.html": "/index.html",
     "main.9f8c553c.css.map": "/static/css/main.9f8c553c.css.map",
-    "main.3e9f06db.js.map": "/static/js/main.3e9f06db.js.map",
+    "main.451a450e.js.map": "/static/js/main.451a450e.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f8c553c.css",
-    "static/js/main.3e9f06db.js"
+    "static/js/main.451a450e.js"
   ]
 }
