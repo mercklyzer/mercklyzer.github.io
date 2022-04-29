@@ -21,7 +21,7 @@ const Hero = ({className}) => {
             delay: 4.8
         })
 
-        gsap.to(".letter", 1.6, {
+        gsap.to(".letter", 0.3, {
             opacity: 1,
             top: -80,
             stagger: 0.1,
