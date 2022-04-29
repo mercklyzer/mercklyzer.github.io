@@ -47,7 +47,7 @@ const Hero = ({className}) => {
                     className="absolute inset-0 w-full h-full bg-light transform scale-105"></div>
                 <div className="w-[80vw] md:w-[60vw] lg:w-auto lg:h-[90vh] overflow-hidden">
                     <img
-                        className="object-fit h-full max-h-screen" 
+                        className="object-fit h-full max-h-[800px]" 
                         src={HeroImg} alt="hero image" 
                         />
 
