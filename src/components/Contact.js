@@ -13,10 +13,10 @@ const Contact = props => {
             </a>
 
             <div className="flex flex-col md:flex-row my-16 md:my-32">
-                <Link name="Twitter"/>
-                <Link name="LinkedIn"/>
-                <Link name="GitHub"/>
-                <Link name="Resume"/>
+                <Link className="mr-4" name="Twitter"/>
+                <Link className="mr-4" name="LinkedIn"/>
+                <Link className="mr-4" name="GitHub"/>
+                <Link className="" name="Resume"/>
             </div>
 
             <div className="text-zinc-400 font-poppins mb-12 md:mb-16 lg:mb-24">© Lyzer Bautista. All Rights Reserved.</div>

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Maven+Pro:wght@400;500;600;700;800;900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');@tailwind base;
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Londrina+Outline&family=Maven+Pro:wght@400;500;600;700;800;900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Maven+Pro:wght@400;500;600;700;800;900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -20,7 +20,7 @@
   .sidebar {
       position: fixed;
       inset: 0;
-      background-color: #bfdd21;
+      background-color: #dcff7d;
       clip-path: circle(20px at calc(100% - 47px) 47px);
       transition: clip-path 0.5s;
   }
@@ -72,7 +72,7 @@ body{
 }
 
 .neon-shadow{
-  text-shadow: 1px 2px 4px #c3ed2d;
+  text-shadow: 1px 2px 4px #dcff7d;
 }
 
 body::-webkit-scrollbar, .no-scrollbar::-webkit-scrollbar {
@@ -84,6 +84,32 @@ body, .no-scrollbar {
   scrollbar-width: none;  /* Firefox */
 }
 
+
+
+.text{
+
+
+  text-shadow: 
+    0 0 10px gold,
+    0 0 20px firebrick,
+    0 0 40px pink,
+    0 0 80px red;
+  will-change: filter, color;
+  filter: saturate(60%);
+  animation: flicker steps(100) 1s 1s infinite;
+  
+
+  color: lightyellow;
+
+}
+
+
+@keyframes flicker {
+  50% {
+    color: white;
+    filter: saturate(200%) hue-rotate(20deg);
+  }
+}
 
 @media screen and (min-width: 1024px) {
   .text-fill-transparent { 

@@ -19,10 +19,10 @@ const Navbar = props => {
     }, [])
 
     return (
-    <div className="px-8 fixed left-0 top-0 pt-6 w-full flex justify-start items-center z-10 mix-blend-difference text-white ">
+    <div className="px-8 fixed left-0 top-0 pt-6 w-full flex justify-start items-center z-10 mix-blend-difference text-silver duration-500 group hover:text-neon cursor-pointer">
         <div className="flex flex-col font-maven" >
-            <div ref={brandRef} className="font-bold text-md lg:text-xl lg:tracking-wider opacity-0 nav-item">LYZER BAUTISTA</div>
-            <div ref={positionRef} className="font-semibold text-sm lg:text-md opacity-0 nav-item">Software Engineer</div>
+            <div ref={brandRef} className="font-bold text-md lg:text-xl lg:tracking-wider opacity-0 nav-item group-hover:tracking-widest duration-500">LYZER BAUTISTA</div>
+            <div ref={positionRef} className="font-semibold text-sm lg:text-md opacity-0 nav-item duration-300 ">Software Engineer</div>
         </div>
     </div>
     )
