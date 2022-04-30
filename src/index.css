@@ -78,11 +78,3 @@ body, .no-scrollbar {
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
-
-
-@media screen and (min-width: 1024px) {
-  .text-fill-transparent { 
-    -webkit-text-stroke: 2px rgb(165, 165, 165);
-  }
-  
-}
