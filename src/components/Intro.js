@@ -20,18 +20,6 @@ const Intro = props => {
             }
         })
 
-        // new Promise((fulfill, reject) => {
-        //     setTimeout(() => {
-        //         document.querySelector("body").classList.remove("disable-scroll")
-                
-        //         fulfill()
-        //     },5000)
-        // })
-        // .then(() => {
-        //     setTimeout(() => {
-        //         setBehind(true)
-        //     }, 1000)
-        // })        
     }, [])
 
     return (
