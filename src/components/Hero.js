@@ -1,7 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import HeroImg from '../assets/hero-img.jpg'
 import WhiteScrollDown from '../assets/white_scroll_down.png'
-import gsap, { Expo } from "gsap";
 import Profile from '../assets/profile.jpg'
 import Link from "./Link";
 

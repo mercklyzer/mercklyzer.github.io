@@ -66,11 +66,6 @@ body{
   overflow:hidden;
 }
 
-.text-fill-transparent { 
-  color: transparent;
-  -webkit-text-stroke: 1px rgb(165, 165, 165);
-}
-
 .neon-shadow{
   text-shadow: 1px 2px 4px #dcff7d;
 }
@@ -84,32 +79,6 @@ body, .no-scrollbar {
   scrollbar-width: none;  /* Firefox */
 }
 
-
-
-.text{
-
-
-  text-shadow: 
-    0 0 10px gold,
-    0 0 20px firebrick,
-    0 0 40px pink,
-    0 0 80px red;
-  will-change: filter, color;
-  filter: saturate(60%);
-  animation: flicker steps(100) 1s 1s infinite;
-  
-
-  color: lightyellow;
-
-}
-
-
-@keyframes flicker {
-  50% {
-    color: white;
-    filter: saturate(200%) hue-rotate(20deg);
-  }
-}
 
 @media screen and (min-width: 1024px) {
   .text-fill-transparent { 
