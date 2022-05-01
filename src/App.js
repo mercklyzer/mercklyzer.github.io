@@ -8,21 +8,9 @@ import Projects from './components/Projects';
 import Sidebar from './components/Sidebar';
 
 function App() {
-  useEffect(() => {
-    const appHeight = () => {
-      const doc = document.documentElement
-      doc.style.setProperty('--app-height', `${window.innerHeight}px`)
-    }
-    window.addEventListener('resize', appHeight)
-    appHeight()
-
-    return () => window.removeEventListener('resize', appHeight)
-  }, [])
-
-  
 
   return (
-    <div className="bg-light relative select-none overflow-x-none">
+    <div className="bg-light relative select-none overflow-x-hidden">
       <Intro />
       <Navbar />
       <Sidebar />

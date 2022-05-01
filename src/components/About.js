@@ -10,6 +10,7 @@ const About = ({className}) => {
             opacity: 1,
             scrollTrigger: {
                 trigger: ".description",
+                start: "center 90%",
             },
             stagger: 0.3
         })
@@ -27,7 +28,7 @@ const About = ({className}) => {
                 <div>
                     <span className="opacity-0">formulate</span> <span className="opacity-0">ideas</span> <span className="opacity-0">and</span></div>
                 <div><span className="opacity-0">launch</span> <span className="opacity-0">projects</span> <span className="text-neon opacity-0">on</span></div>
-                <div><span className="opacity-0 text-neon">time,</span> <span className="opacity-0">with</span> <span className="opacity-0">no</span> <span className="opacity-0">hassle.</span></div>
+                <div><span className="opacity-0 text-neon">time,</span> <span className="opacity-0">with</span> <span className="opacity-0 text-neon">no</span> <span className="opacity-0 text-neon">hassle.</span></div>
             </div>
         </div>
     )
