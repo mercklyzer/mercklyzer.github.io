@@ -10,8 +10,8 @@ const Project = ({image, title, visitLink, documentationLink}) => {
         <div className="flex justify-between items-center w-full  text-white mt-2 font-poppins">
             <div className="font-semibold text-md">{title}</div>
             <div>
-                <a href={visitLink} target="__blank" className="text-sm font-medium cursor-pointer">Visit</a>
-                <div className="text-sm font-medium cursor-pointer">Documentation</div>
+                <a href={visitLink} target="__blank" className="text-sm font-medium cursor-pointer hover:text-neon duration-500">Visit</a>
+                <div className="text-sm font-medium cursor-pointer hover:text-neon duration-500">Documentation</div>
             </div>
         </div>
     </div>
