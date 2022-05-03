@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import WhiteScrollDown from '../assets/white_scroll_down.png'
 import Profile from '../assets/profile.jpg'
+import Resume from '../assets/Bautista_Resume.pdf'
 import Link from "./Link";
 import gsap, { Expo } from "gsap";
 
@@ -86,7 +87,7 @@ const Hero = ({className}) => {
                     </div>
                     <div className="flex flex-col md:flex-row justify-end items-end ml-12">
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="Resume"/>
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="Resume" link={Resume}/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">
