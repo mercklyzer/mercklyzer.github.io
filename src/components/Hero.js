@@ -90,15 +90,15 @@ const Hero = ({className}) => {
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="LinkedIn"/>
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="LinkedIn" link="https://www.linkedin.com/in/lyzer-merck-bautista/"/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="GitHub"/>
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="GitHub" link="https://github.com/mercklyzer"/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="Twitter"/>
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="Twitter" link="https://twitter.com/LyzerBautista" />
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
 
