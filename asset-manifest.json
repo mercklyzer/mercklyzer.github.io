@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e9fc2907.css",
-    "main.js": "/static/js/main.10a6d0c1.js",
+    "main.js": "/static/js/main.ff51a0e2.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Lyz-Co.gif": "/static/media/Lyz-Co.0d279c9c40f0beacc70c.gif",
     "static/media/LYZ Ideas.gif": "/static/media/LYZ Ideas.ccaf0ac2db1c33710e70.gif",
@@ -13,18 +13,19 @@
     "static/media/profile.jpg": "/static/media/profile.92b77b66a4cb47306ad4.jpg",
     "static/media/trailyzer.jpg": "/static/media/trailyzer.a64643d1072e0026f1f9.jpg",
     "static/media/LYZIdeas.jpg": "/static/media/LYZIdeas.8e09af1fc016cfc00d63.jpg",
-    "static/media/LYZIdeasAdmin.jpg": "/static/media/LYZIdeasAdmin.f4b82d74be28c0d79711.jpg",
     "static/media/UPTrace.jpg": "/static/media/UPTrace.675dd1e0fd2be406a9eb.jpg",
     "static/media/lyzco.jpg": "/static/media/lyzco.14bd330a1108e0e801a4.jpg",
     "static/media/brainly.jpg": "/static/media/brainly.ca1cd335508fa5c755e2.jpg",
+    "static/media/Bautista_Resume.pdf": "/static/media/Bautista_Resume.d33e4296fb60bd2ffdf5.pdf",
+    "static/media/LYZIdeasAdmin.jpg": "/static/media/LYZIdeasAdmin.93b437914b57c9f255f2.jpg",
     "static/media/MonumentExtended-Bold.woff": "/static/media/MonumentExtended-Bold.a94ac004aceadf80f4a0.woff",
     "index.html": "/index.html",
     "main.e9fc2907.css.map": "/static/css/main.e9fc2907.css.map",
-    "main.10a6d0c1.js.map": "/static/js/main.10a6d0c1.js.map",
+    "main.ff51a0e2.js.map": "/static/js/main.ff51a0e2.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9fc2907.css",
-    "static/js/main.10a6d0c1.js"
+    "static/js/main.ff51a0e2.js"
   ]
 }
