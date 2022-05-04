@@ -14,10 +14,10 @@ const Contact = props => {
             </a>
 
             <div className="flex flex-col md:flex-row my-16 md:my-32">
-                <Link className="mr-4" name="Resume" link={Resume}/>
-                <Link className="mr-4" name="LinkedIn" link="https://www.linkedin.com/in/lyzer-merck-bautista/"/>
-                <Link className="mr-4" name="GitHub" link="https://github.com/mercklyzer"/>
-                <Link className="" name="Twitter" link="https://twitter.com/LyzerBautista"/>
+                <Link className="mb-4 md:mb-0 mr-4" name="Resume" link={Resume}/>
+                <Link className="mb-4 md:mb-0 mr-4" name="LinkedIn" link="https://www.linkedin.com/in/lyzer-merck-bautista/"/>
+                <Link className="mb-4 md:mb-0 mr-4" name="GitHub" link="https://github.com/mercklyzer"/>
+                <Link className="mb-4 md:mb-0 " name="Twitter" link="https://twitter.com/LyzerBautista"/>
                 
             </div>
 

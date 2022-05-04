@@ -87,19 +87,19 @@ const Hero = ({className}) => {
                     </div>
                     <div className="flex flex-col md:flex-row justify-end items-end ml-12">
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="Resume" link={Resume}/>
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="Resume" link={Resume}/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="LinkedIn" link="https://www.linkedin.com/in/lyzer-merck-bautista/"/>
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="LinkedIn" link="https://www.linkedin.com/in/lyzer-merck-bautista/"/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="GitHub" link="https://github.com/mercklyzer"/>
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="GitHub" link="https://github.com/mercklyzer"/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg" name="Twitter" link="https://twitter.com/LyzerBautista" />
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="Twitter" link="https://twitter.com/LyzerBautista" />
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
 
