@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9fc2907.css",
-    "main.js": "/static/js/main.9b904f4d.js",
+    "main.css": "/static/css/main.dc97ed30.css",
+    "main.js": "/static/js/main.4971849b.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Lyz-Co.gif": "/static/media/Lyz-Co.0d279c9c40f0beacc70c.gif",
     "static/media/LYZ Ideas.gif": "/static/media/LYZ Ideas.ccaf0ac2db1c33710e70.gif",
@@ -12,21 +12,21 @@
     "static/media/LYZ Ideas Admin.gif": "/static/media/LYZ Ideas Admin.3d25bf623c7567e1687f.gif",
     "static/media/profile.jpg": "/static/media/profile.92b77b66a4cb47306ad4.jpg",
     "static/media/UPTrace.pdf": "/static/media/UPTrace.a856cc115c03fe7dcae5.pdf",
-    "static/media/trailyzer.jpg": "/static/media/trailyzer.a64643d1072e0026f1f9.jpg",
-    "static/media/LYZIdeas.jpg": "/static/media/LYZIdeas.8e09af1fc016cfc00d63.jpg",
-    "static/media/UPTrace.jpg": "/static/media/UPTrace.675dd1e0fd2be406a9eb.jpg",
-    "static/media/lyzco.jpg": "/static/media/lyzco.14bd330a1108e0e801a4.jpg",
-    "static/media/brainly.jpg": "/static/media/brainly.ca1cd335508fa5c755e2.jpg",
+    "static/media/trailyzer.jpg": "/static/media/trailyzer.0148c5c15db3228cd94e.jpg",
+    "static/media/LYZIdeas.jpg": "/static/media/LYZIdeas.286a126bf3f435843a03.jpg",
+    "static/media/lyzco.jpg": "/static/media/lyzco.000e4e361ea935f4116e.jpg",
+    "static/media/UPTrace.jpg": "/static/media/UPTrace.3cfbe7384cee4788a19f.jpg",
+    "static/media/brainly.jpg": "/static/media/brainly.0c9df82e61c3e761533b.jpg",
     "static/media/Bautista_Resume.pdf": "/static/media/Bautista_Resume.71f6b30f1b150c038717.pdf",
-    "static/media/LYZIdeasAdmin.jpg": "/static/media/LYZIdeasAdmin.93b437914b57c9f255f2.jpg",
+    "static/media/LYZIdeasAdmin.jpg": "/static/media/LYZIdeasAdmin.bbae0c8379908ddee4e7.jpg",
     "static/media/MonumentExtended-Bold.woff": "/static/media/MonumentExtended-Bold.a94ac004aceadf80f4a0.woff",
     "index.html": "/index.html",
-    "main.e9fc2907.css.map": "/static/css/main.e9fc2907.css.map",
-    "main.9b904f4d.js.map": "/static/js/main.9b904f4d.js.map",
+    "main.dc97ed30.css.map": "/static/css/main.dc97ed30.css.map",
+    "main.4971849b.js.map": "/static/js/main.4971849b.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9fc2907.css",
-    "static/js/main.9b904f4d.js"
+    "static/css/main.dc97ed30.css",
+    "static/js/main.4971849b.js"
   ]
 }
