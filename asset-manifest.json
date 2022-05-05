@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c0633ae.css",
-    "main.js": "/static/js/main.d9d91329.js",
+    "main.js": "/static/js/main.c4dba7fe.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Lyz-Co.gif": "/static/media/Lyz-Co.0d279c9c40f0beacc70c.gif",
     "static/media/LYZ Ideas.gif": "/static/media/LYZ Ideas.ccaf0ac2db1c33710e70.gif",
@@ -17,16 +17,16 @@
     "static/media/lyzco.jpg": "/static/media/lyzco.000e4e361ea935f4116e.jpg",
     "static/media/UPTrace.jpg": "/static/media/UPTrace.3cfbe7384cee4788a19f.jpg",
     "static/media/brainly.jpg": "/static/media/brainly.0c9df82e61c3e761533b.jpg",
-    "static/media/Bautista_Resume.pdf": "/static/media/Bautista_Resume.71f6b30f1b150c038717.pdf",
+    "static/media/Bautista_Resume.pdf": "/static/media/Bautista_Resume.b6372217244f31817862.pdf",
     "static/media/LYZIdeasAdmin.jpg": "/static/media/LYZIdeasAdmin.bbae0c8379908ddee4e7.jpg",
     "static/media/MonumentExtended-Bold.woff": "/static/media/MonumentExtended-Bold.a94ac004aceadf80f4a0.woff",
     "index.html": "/index.html",
     "main.8c0633ae.css.map": "/static/css/main.8c0633ae.css.map",
-    "main.d9d91329.js.map": "/static/js/main.d9d91329.js.map",
+    "main.c4dba7fe.js.map": "/static/js/main.c4dba7fe.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c0633ae.css",
-    "static/js/main.d9d91329.js"
+    "static/js/main.c4dba7fe.js"
   ]
 }
