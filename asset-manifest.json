@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c0633ae.css",
-    "main.js": "/static/js/main.645fb04e.js",
+    "main.js": "/static/js/main.680757c0.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Lyz-Co.gif": "/static/media/Lyz-Co.0d279c9c40f0beacc70c.gif",
     "static/media/LYZ Ideas.gif": "/static/media/LYZ Ideas.ccaf0ac2db1c33710e70.gif",
@@ -13,7 +13,6 @@
     "static/media/profile.jpg": "/static/media/profile.92b77b66a4cb47306ad4.jpg",
     "static/media/UPTrace.pdf": "/static/media/UPTrace.a856cc115c03fe7dcae5.pdf",
     "static/media/trailyzer.jpg": "/static/media/trailyzer.0148c5c15db3228cd94e.jpg",
-    "static/media/seo-banner.png": "/static/media/seo-banner.ad6a692ffcd9166cfbce.png",
     "static/media/LYZIdeas.jpg": "/static/media/LYZIdeas.286a126bf3f435843a03.jpg",
     "static/media/lyzco.jpg": "/static/media/lyzco.000e4e361ea935f4116e.jpg",
     "static/media/UPTrace.jpg": "/static/media/UPTrace.3cfbe7384cee4788a19f.jpg",
@@ -23,11 +22,11 @@
     "static/media/MonumentExtended-Bold.woff": "/static/media/MonumentExtended-Bold.a94ac004aceadf80f4a0.woff",
     "index.html": "/index.html",
     "main.8c0633ae.css.map": "/static/css/main.8c0633ae.css.map",
-    "main.645fb04e.js.map": "/static/js/main.645fb04e.js.map",
+    "main.680757c0.js.map": "/static/js/main.680757c0.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c0633ae.css",
-    "static/js/main.645fb04e.js"
+    "static/js/main.680757c0.js"
   ]
 }
