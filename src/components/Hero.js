@@ -87,7 +87,7 @@ const Hero = ({className}) => {
                     </div>
                     <div className="flex flex-col md:flex-row justify-end items-end ml-12">
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="Resume" link={Resume}/>
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="Resume" link="https://firebasestorage.googleapis.com/v0/b/shop-c4574.appspot.com/o/Bautista%20-%20Resume.pdf?alt=media&token=4f442393-3cd8-4a17-a05b-7cf95ba4d7c6"/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">

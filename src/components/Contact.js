@@ -14,7 +14,7 @@ const Contact = props => {
             </a>
 
             <div className="flex flex-col md:flex-row my-16 md:my-32">
-                <Link className="md:text-md lg:text-lg mb-4 md:mb-0 mr-4" name="Resume" link={Resume}/>
+                <Link className="md:text-md lg:text-lg mb-4 md:mb-0 mr-4" name="Resume" link="https://firebasestorage.googleapis.com/v0/b/shop-c4574.appspot.com/o/Bautista%20-%20Resume.pdf?alt=media&token=4f442393-3cd8-4a17-a05b-7cf95ba4d7c6"/>
                 <Link className="md:text-md lg:text-lg mb-4 md:mb-0 mr-4" name="LinkedIn" link="https://www.linkedin.com/in/lyzer-merck-bautista/"/>
                 <Link className="md:text-md lg:text-lg mb-4 md:mb-0 mr-4" name="GitHub" link="https://github.com/mercklyzer"/>
                 <Link className="md:text-md lg:text-lg mb-4 md:mb-0 " name="Twitter" link="https://twitter.com/LyzerBautista"/>
