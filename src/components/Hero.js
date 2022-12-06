@@ -51,15 +51,15 @@ const Hero = ({className}) => {
                             <div className="absolute inset-0 bg-dark line-block"></div>
                         </div>
                         <div className="block relative overflow-hidden">
-                            ALSO, I AM A GRADUATING STUDENT
+                            I HAVE A MAJOR IN COMPUTER SCIENCE
                             <div className="absolute inset-0 bg-dark line-block"></div>
                         </div>
                         <div className="block relative overflow-hidden">
-                            AT THE UNIVERSITY OF THE PHILIPPINES
+                            AND GRADUATED AS <span className="text-neon font-semibold"> SUMMA CUM LAUDE </span>
                             <div className="absolute inset-0 bg-dark line-block"></div>
                         </div>
                         <div className="block relative overflow-hidden">
-                            MAJORING IN COMPUTER SCIENCE.
+                            AT THE UNIVERSITY OF THE PHILIPPINES DILIMAN.
                             <div className="absolute inset-0 bg-dark line-block"></div>
                         </div>
                     </div>
@@ -87,7 +87,8 @@ const Hero = ({className}) => {
                     </div>
                     <div className="flex flex-col md:flex-row justify-end items-end ml-12">
                         <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="Resume" link="https://firebasestorage.googleapis.com/v0/b/shop-c4574.appspot.com/o/Bautista%20-%20Resume.pdf?alt=media&token=4f442393-3cd8-4a17-a05b-7cf95ba4d7c6"/>
+                            {/* <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="Resume" link="https://firebasestorage.googleapis.com/v0/b/shop-c4574.appspot.com/o/Bautista%20-%20Resume.pdf?alt=media&token=4f442393-3cd8-4a17-a05b-7cf95ba4d7c6"/> */}
+                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="Resume" link={Resume}/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
                         <div className="relative overflow-hidden">
@@ -98,11 +99,6 @@ const Hero = ({className}) => {
                             <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="GitHub" link="https://github.com/mercklyzer"/>
                             <div className="link-block bg-dark inset-0 absolute"></div>
                         </div>
-                        <div className="relative overflow-hidden">
-                            <Link className="md:mr-4 text-sm md:text-md lg:text-lg mb-4 md:mb-0" name="Twitter" link="https://twitter.com/LyzerBautista" />
-                            <div className="link-block bg-dark inset-0 absolute"></div>
-                        </div>
-
                     </div>
                 </div>
                 <div className="text-right hidden md:block 2xl:hidden lg:text-lg xl:text-2xl">

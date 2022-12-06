@@ -33,6 +33,9 @@ const Sidebar = props => {
                     <span className="font-monument text-4xl lg:text-6xl mb-6 lg:mb-12 inline-block cursor-pointer" onClick={() => handleNavigate("#projects")}> Projects </span>
                 </div>
                 <div className="">
+                    <a className="font-monument text-4xl lg:text-6xl mb-6 lg:mb-12 inline-block cursor-pointer" href="https://blogs.lyzerbautista.com/"> Blogs </a>
+                </div>
+                <div className="">
                     <span className="font-monument text-4xl lg:text-6xl cursor-pointer" onClick={() => handleNavigate("#contact")}> Contact </span>
                 </div>
 
