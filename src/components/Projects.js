@@ -46,7 +46,7 @@ const Projects = props => {
     return (
         <div className="bg-dark" id="projects">
             <div className="section lg:border-2 border-neon !border-x-0">
-                <div 
+                <div
                     ref={projectRef}
                     className="font-monument font-bold text-white text-4xl md:text-6xl lg:text-8xl text-center opacity-0">PROJECTS</div>
             </div>
@@ -55,7 +55,7 @@ const Projects = props => {
                 <Project preview={UPTraceGif} image={UPTRace} title="UPTrace" visitLink="https://mercklyzer.github.io/UPTrace-web/" documentationLink="https://firebasestorage.googleapis.com/v0/b/shop-c4574.appspot.com/o/UPTrace%20Paper.pdf?alt=media&token=391536e4-0a25-4efc-81f9-c158b9ae6ca7"/>
                 <Project preview={LYZIdeasGif} image={LyzIdeas} title="LYZ Ideas" visitLink="https://www.lyzideas.com/" documentationLink="https://github.com/mercklyzer/lyz-ideas-client" />
                 <Project preview={LYZIdeasAdminGif} image={LyzIdeasAdmin} title="LYZ Ideas Admin" visitLink="https://lyz-ideas-admin.vercel.app/" documentationLink="https://github.com/mercklyzer/lyz-ideas-admin"/>
-                <Project preview={BrainlyGif} image={Brainly} title="Brainly" visitLink="http://brainly-angular.s3-website-ap-southeast-1.amazonaws.com/" documentationLink="https://github.com/mercklyzer/brainly-frontend"/>
+                <Project preview={BrainlyGif} image={Brainly} title="Brainly" documentationLink="https://github.com/mercklyzer/brainly-frontend"/>
                 <Project preview={TrailyzerGif} image={Trailyzer} title="Trailyzer" visitLink="https://mercklyzer.github.io/trailyzer/" documentationLink="https://github.com/mercklyzer/trailyzer"/>
                 <Project preview={LyzCoGif} image={LyzCo} title="Lyz & Co" visitLink="https://mercklyzer.github.io/Lyz-Co/" documentationLink="https://github.com/mercklyzer/Lyz-Co"/>
             </div>
