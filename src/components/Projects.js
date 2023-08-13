@@ -52,9 +52,9 @@ const Projects = props => {
             </div>
 
             <div className="section grid grid-cols-1 md:grid-cols-2 md:gap-x-12 lg:gap-x-24 xl:gap-x-64 gap-y-20 md:gap-y-32 lg:gap-y-24 py-32">
-                <Project preview={UPTraceGif} image={UPTRace} title="UPTrace" visitLink="https://mercklyzer.github.io/UPTrace-web/" documentationLink="https://firebasestorage.googleapis.com/v0/b/shop-c4574.appspot.com/o/UPTrace%20Paper.pdf?alt=media&token=391536e4-0a25-4efc-81f9-c158b9ae6ca7"/>
+                <Project preview={UPTraceGif} image={UPTRace} title="UPTrace" documentationLink="https://firebasestorage.googleapis.com/v0/b/shop-c4574.appspot.com/o/UPTrace%20Paper.pdf?alt=media&token=391536e4-0a25-4efc-81f9-c158b9ae6ca7"/>
                 <Project preview={LYZIdeasGif} image={LyzIdeas} title="LYZ Ideas" visitLink="https://www.lyzideas.com/" documentationLink="https://github.com/mercklyzer/lyz-ideas-client" />
-                <Project preview={LYZIdeasAdminGif} image={LyzIdeasAdmin} title="LYZ Ideas Admin" visitLink="https://lyz-ideas-admin.vercel.app/" documentationLink="https://github.com/mercklyzer/lyz-ideas-admin"/>
+                <Project preview={LYZIdeasAdminGif} image={LyzIdeasAdmin} title="LYZ Ideas Admin" documentationLink="https://github.com/mercklyzer/lyz-ideas-admin"/>
                 <Project preview={BrainlyGif} image={Brainly} title="Brainly" documentationLink="https://github.com/mercklyzer/brainly-frontend"/>
                 <Project preview={TrailyzerGif} image={Trailyzer} title="Trailyzer" visitLink="https://mercklyzer.github.io/trailyzer/" documentationLink="https://github.com/mercklyzer/trailyzer"/>
                 <Project preview={LyzCoGif} image={LyzCo} title="Lyz & Co" visitLink="https://mercklyzer.github.io/Lyz-Co/" documentationLink="https://github.com/mercklyzer/Lyz-Co"/>
