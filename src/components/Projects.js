@@ -65,14 +65,14 @@ const Projects = (props) => {
           preview={LYZIdeasGif}
           image={LyzIdeas}
           title="LYZ Ideas"
-          visitLink="https://www.lyzideas.com/"
+          //   visitLink="https://www.lyzideas.com/"
           documentationLink="https://github.com/mercklyzer/lyz-ideas-client"
         />
         <Project
           preview={LYZIdeasAdminGif}
           image={LyzIdeasAdmin}
           title="LYZ Ideas Admin"
-          visitLink={"https://lyz-ideas-admin.vercel.app/login"}
+          //   visitLink={"https://lyz-ideas-admin.vercel.app/login"}
           documentationLink="https://github.com/mercklyzer/lyz-ideas-admin"
         />
         <Project
