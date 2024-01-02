@@ -79,9 +79,9 @@ const Projects = (props) => {
           preview={BrainlyGif}
           image={Brainly}
           title="Brainly"
-          visitLink={
-            "http://brainly.lyzerbautista.com.s3-website-ap-southeast-1.amazonaws.com/"
-          }
+        //   visitLink={
+        //     "http://brainly.lyzerbautista.com.s3-website-ap-southeast-1.amazonaws.com/"
+        //   }
           documentationLink="https://github.com/mercklyzer/brainly-frontend"
         />
         <Project
