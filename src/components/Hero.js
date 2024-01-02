@@ -12,7 +12,7 @@ const Hero = ({ className }) => {
     tl.to(".line-block", {
       yPercent: -100,
       duration: 0.5,
-      delay: 5.5,
+      delay: 0.5,
       ease: Expo.easeOut,
       stagger: 0.3,
     });
@@ -66,12 +66,12 @@ const Hero = ({ className }) => {
         </div>
 
         <div className="flex justify-end my-6 sm:my-4 md:mt-14 lg:mt-0 relative overflow-hidden">
-          <div className="lg:block w-[25vw] sm:w-[16vw] lg:w-[10vw] xl:w-[6vw] absolute top-1/2 left-0 trasnform -translate-x-1/2 -translate-y-1/2">
+          {/* <div className="lg:block w-[25vw] sm:w-[16vw] lg:w-[10vw] xl:w-[6vw] absolute top-1/2 left-0 transform -translate-x-1/2 -translate-y-1/2 bg-black">
             <img
               src={WhiteScrollDown}
               className="animate-spin-slow h-full w-full"
             />
-          </div>
+          </div> */}
           <div className="absolute inset-0 bg-dark image-block"></div>
           <img
             src={Profile}
