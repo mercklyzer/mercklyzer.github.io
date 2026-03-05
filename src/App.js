@@ -3,6 +3,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Hero from "./components/Hero";
 import Intro from "./components/Intro";
+import Demos from "./components/Demos";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Sidebar from "./components/Sidebar";
@@ -20,6 +21,7 @@ function App() {
       <Hero className="" />
       <About className="" />
       <Projects />
+      <Demos />
       <Contact />
     </div>
   );
