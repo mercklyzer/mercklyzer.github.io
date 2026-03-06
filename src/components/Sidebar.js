@@ -94,7 +94,7 @@ const Sidebar = (props) => {
         <div className="">
           <a
             className="font-monument text-4xl lg:text-6xl mb-6 lg:mb-12 inline-block cursor-pointer"
-            href="https://blogs.lyzerbautista.com/"
+            href="https://lyzerbautista.hashnode.dev/"
             target="__blank"
           >
             {" "}
